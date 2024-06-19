@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <br/>
-<div align="right">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=¡+Welcome+to+my+profile+!" alt="Typing SVG" /></a>
 </div>
 <h1 align="left">Hi 👋, I'm Juan</h1>
