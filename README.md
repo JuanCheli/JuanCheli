@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bienvenidos+a+mi+perfil" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bienvenidos+a+mi+perfil" alt="Typing SVG" /></a>
 <h1 align="left">Hi 👋, I'm Juan</h1>
 <h3 align="left">A system engineer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
