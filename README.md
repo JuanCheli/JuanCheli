@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **my degree and improving my coding skills**
 
-- 🌱 I’m currently learning **Java, Jquery**
+- 🌱 I’m currently learning **React, Node.js, Mongo, TailwindCS**
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 💬 Ask me about **Python, MERN, DB or anything you want, I'm all ears!**
+- 💬 Ask me about **Python, MERN, Java, Design Patterns or anything you want, I'm all ears!**
 
 - 📫 How to reach me **juanchelidev@gmail.com**
 
